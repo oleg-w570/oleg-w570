@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there 👋
 ## 💻 About Me:
 - 🎓 Graduate student at Lobachevsky State University, specializing in Artificial Intelligence.
 - 🧠 Interested in numerical methods, machine learning, and algorithm optimization.
